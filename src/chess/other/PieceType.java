@@ -1,4 +1,4 @@
-package other;
+package chess.other;
 
 public enum PieceType
 {
